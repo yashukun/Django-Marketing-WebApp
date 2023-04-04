@@ -4,6 +4,10 @@
   scroll-behavior: smooth;
 }
 
+#contact-form {
+  margin-left: 198px;
+}
+
 /*Hero Section-*/
 #hero,
 #hero-about,
